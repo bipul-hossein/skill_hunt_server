@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "title": "Complete HTML5, CSS3 & Bootstrap 4 ",
+        "price": 0,
+        "description": "This course covers HTML5, CSS3, and Bootstrap4 in detail; And a complete website is created and shown.",
+        "category": "Computer Science and Programming",
+        "details": "This course covers HTML, CSS and Bootstrap in detail for absolute beginners. Each tag, each topic is coded. If you want to start a career in web development, this free course is not only helpful, but also essential! Because no matter what programming language we use for the server side of the website, we need to know HTML, CSS, Bootstrap for the front side. At the end of the course a website is created so that anyone can create a website from scratch, and how Can get a clear idea about the server to be hosted on. After completing the course, students will be able to structure a website for their class project, freelancing project or their own business.",
+        "image": "https://i.ibb.co/jVT0vbt/HTML-CSS-Bootstrap-Bangla-Online-Course.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 2,
+        "title": " C Programming for Beginners",
+        "price": 1200,
+        "description": "By learning C programming language in this course you can start your programming journey and prepare to learn any other language in future.",
+        "category": "Computer Science and Programming",
+        "details": "The main objective of this course is not only to teach you C programming. Rather develop your logic, which you can use to solve problems in any other programming language.In the course you will learn everything from the very basic variables of C language to conditional statements, loops, functions, arrays, strings, pointers, file management. Almost all the videos show live coding of small problem solving or building small console applications. You can also practice coding with the instructor.",
+        "image": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/04/01170800/Free-Online-Courses-with-Certificates.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Career Track: Front-End Web Development",
+        "price": 7000,
+        "description": "To become a front-end web developer you need to know the front-end of a website or web application very well. So throughout the program you will have the opportunity to learn front-end development in several steps.",
+        "category": "Career Track Programs",
+        "details": "To become a front-end web developer you need to know the front-end of a website or web application very well. So throughout the program you will have the opportunity to learn front-end development in several steps.",
+        "image": "https://bohubrihi.com/wp-content/uploads/2022/02/Front-End-Web-Development-Career-Track-Bangla-Course-Bohubrihi.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Career Track: Android App Development",
+        "price": 5500,
+        "description": "Before starting working with Android, you should know the history of Android. Then you will learn about Android Project, Android Studio setup and its various features and file types one by one.",
+        "category": "Career Track Programs",
+        "details": "Learning the basics of Kotlin will prepare you for Android app development. First of all, the life cycle of the Android app will be given an idea. After that you will learn about Android App View, Fragment, Intents, Animation, Threading and Service, API. Again, basic Android features such as camera, map, notification etc. will be shown. Firebase used in Android app development will be given an idea.",
+        "image": "https://media.istockphoto.com/photos/webinar-elearning-skills-business-internet-technology-concepts-picture-id1366428092?b=1&k=20&m=1366428092&s=170667a&w=0&h=caQSZLOyv7NajpaDnab75HaFO9VbGqJuD9B8580enOo=",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "Graphic Design Fundamentals",
+        "price": 1500,
+        "description": "A good graphic designer brings out a design not only by using software, but by creative thinking. To use your creativity in the field of design, you need to have an idea about various design elements, composition and more.So in this course you will know the fundamental concepts of design. You can also practice them through some fun assignments.",
+        "category": "Design & Tools",
+        "details": "Learn about different types of graphic design and styles fro different periods.Get an idea of design elements.Learn about composition.You will also get an idea of how the design elements can create a feeling in the viewer.Learn the professional design process",
+        "image": "https://images.unsplash.com/photo-1523289333742-be1143f6b766?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvdXJzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 6,
+        "title": "Mapping and Spatial Analysis with ArcGIS",
+        "price": 2000,
+        "description": "This course will help you to take yourself one step further as a professional in the GIS (Geographic Information System) field, for academic courses / sessional or research work, or for freelancing in this field! Download the course prospectus for details.",
+        "category": "Design & Tools",
+        "details": "A clear understanding of GIS and the history behind it . Starting from zero to the basic concept as well as the basic introduction of ArcGIS (Interface modification, knowing about dataset and its various aspects working of all tabs of Layer Properties, Concept of Geodatabase, Projection and Coordinate System etc.) Downloading GIS data from different websites and its processing. Preparing datasets by applying different methods including Georeferencing and Digitizing Collecting survey data by relating location very easily through Google My Maps Android application and creating data sets of any area Hacks for making beautiful maps in ArcGIS, use of map templates ArcGIS data ArcGIS Pro users Various methods of data sharing including sharing in editable format",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJoC_KlHCzVyyGsz8gtD0qAadHb3XvwtLwcA&usqp=CAU",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 7,
+        "title": "Google Marketing Tools (Organic)",
+        "price": 0,
+        "description": "In this course you will learn how to get the best results from tools like Google Analytics, Tag Manager, My Business, Maps, Campaign URL Builder, Data Studio, Firebase or YouTube.",
+        "category": "Digital Marketing",
+        "details": "There are some ways to increase your website's traffic and visibility by using Google's various tools without spending money on advertising.In this course you will learn how to use some of Google's free tools:How to use 'Google My Business' and 'Google Map' tools properly . Method of collection and analysis of important data about website users using 'Google Analytics' and 'Google Tag Manager'In this course, you will get a good understanding of all the excellent strategies of YouTube marketing besides other important tools like Campaign URL Builder, Data Studio, Firebase. You might have missed many easy opportunities by not being able to use all these useful (and free) tools properly!",
+        "image": "https://prod-discovery.edx-cdn.org/media/course/image/52bf4539-6137-4968-9605-6c32414dcdc4-7e805a266b31.small.png",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 8,
+        "title": "Google Ads Complete Course: A to Z",
+        "price": 1700,
+        "description": "Google ads are more effective than social media sites to get the most website visitors in the least amount of time. You will learn marketing successfully through Google in this course.",
+        "category": "Digital Marketing",
+        "details": "Google is one of the best digital marketing platforms with billions of active users. Google ads are more effective than social media sites to get the most website visitors in the least amount of time. On this platform, marketers can easily reach buyers and increase sales of their products or services. In this course, we will discuss all aspects of the Google Ad platform in depth. We will show you all the features of this platform. Also, I will show you how to run an ad campaign and get good results quickly.",
+        "image": "https://prod-discovery.edx-cdn.org/media/course/image/52bf4539-6137-4968-9605-6c32414dcdc4-7e805a266b31.small.png",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 9,
+        "title": "Career Track: Full Stack Digital Marketing",
+        "price": 6600,
+        "description": "Gain the confidence to become a digital marketer in a special program. Master marketing strategies and tools in a 6-month career track. Prepare yourself for digital marketing jobs and freelancing through practical projects. Download the batch prospectus to get a clearer idea.",
+        "category": "Digital Marketing",
+        "details": "To be a successful digital marketer, you need to know marketing strategies and efficient use of marketing tools very well. So throughout the program you will have the opportunity to learn them. All Career Track materials are reviewed by marketing executives and managers working in companies and agencies to ensure you receive industry-standard training.",
+        "image": "https://blog.edx.org/hubfs/Imported_Blog_Media/Untitled-design-7-Nov-12-2020-07-24-46-69-PM.png",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 10,
+        "title": "Macros & VBA for Excel Automation",
+        "price": 1500,
+        "description": "In this course you will learn everything about Excel VBA (VBA) and Macros, Variables, Procedures and UserForms. These things can be used well in the job field.",
+        "category": "Software & Tools",
+        "details": "Get a clear understanding of Excel macros and VBA coding. Learn about VBA variables, procedures and functions.Understand VBA programming structure.Be able to perform complex logical calculations and data manipulation.Can work with user forms for better UI experience.",
+        "image": "https://justcreative.com/wp-content/uploads/2018/09/best-free-online-graphic-design-courses.jpg.webp",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 11,
+        "title": "MATLAB Masterclass",
+        "price": 1500,
+        "description": "This course will give you the confidence to start from scratch and work on real-world applications like data analysis, image processing, classification!",
+        "category": "Software & Tools",
+        "details": "The importance of learning MATLAB should not be overstated. MATLAB is a great tool for data analysis and visualization with linear algebra solving, 3D plotting and extensive library support.The main objective of this course is to cover the basics of MATLAB from scratch and move step by step towards various practical applications of MATLAB such as data analysis, image processing and classification.MATLAB is the easiest, most powerful and efficient programming platform for students, researchers and professionals interested in data. If you have a good understanding of Matlab, you can stimulate and validate your own algorithms and processes.This course has been designed keeping these aspects in mind. At the end of the course you will gain confidence in programming and data handling.",
+        "image": "https://ngobox.org/news/online%20courses.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    }
+]
